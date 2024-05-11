@@ -3,3 +3,6 @@ The Super-Store Data Set, each row represents a unique transaction or sale withi
 
 # Data Cleaning
 Step 1: Checked for duplicates first
+![](First_Duplicate_Checking.png)
+
+Step 2: I Checked all coloums for thies Data types
