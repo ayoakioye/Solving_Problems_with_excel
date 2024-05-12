@@ -81,6 +81,88 @@ West Region
 
 Insights: The South region shines with Montana, wyoming, and Nevada  emerging as the top three states with the highest profits.
 
+# Question 4: What is the percentage contribution of each subcategory of products under each category to the total sales?
+
+Furniture Category
+![](Percentage_Contribution_Furniture.png)
+
+Insights: The Chair Subcategory boasts the highest sales percentage contribution within the furniture category.
+
+Office Supplies Category
+
+Insights: The Storage Subcategory boasts the highest sales percentage contribution within the Office Supplies category.
+
+Technology Category
+
+Insights: The Phones Subcategory boasts the highest sales percentage contribution within the Technology category.
+
+## Question 5: Which customer made the lowest profit in the home segment in each state?
+
+![](Lowest_Profit_in_all_states.png)
+
+Here are the names of the customers with the lowest Profit in each state
+1) Alabama - Kristina Nunn 
+2) Arizona - Tanja Norvell 
+3) Arkansas - Katherine Murray
+4) California - Pauline Chand
+5) Colorado - Sharelle Roach
+6) Connecticut - Alyssa Tate
+7) Delaware - Shirley Schmidt
+8) District of Columbia -Tony Chapman
+9) Florida - Sean Miller
+10) Georgia - Mick Hernandez
+11) Idaho - Nick Zandusky
+12) Illinois - Skye Norling
+13) Indiana - Anthony Garverick
+14) Iowa - Roy Skaria
+15) Kansas - Rick Huthwaite
+16) Kentucky - Craig Leslie
+17) Louisiana - Robert Marley
+18) Maine - Penelope Sewall
+19) Maryland - Ben Ferrer
+20) Massachusetts - Duane Huffman
+21) Michigan - Sam Zeldin
+22) Minnesota - Arthur Wiediger
+23) Mississippi - Corinna Mitchell
+24) Missouri - Craig Leslie
+25) Montana - Eugene Moren
+26) Nebraska - Jesus Ocampo
+27) Nevada - Neil FranzÃ¶sisch
+28) New Hampshire - Adam Bellavance
+29) New Jersey - Tamara Willingham
+30) New Mexico - Marc Harrigan
+31) New York - Lindsay Shagiari
+32) North Carolina - Tracy Hopkins
+33) North Dakota - Christopher Schild
+34) Ohio - Mick Hernandez
+35) Oklahoma - Julie Prescott
+36) Oregon - Adrian Hane
+37) Pennsylvania - Paul Knutson
+38) Rhode Island - Brad Eason
+39) South Carolina - Parhena Norris
+40) Tennessee - Dean percer
+41) Texas - Barry Franz
+42) Utah - Rick Huthwaite
+43) Vermont - Valerie Mitchum
+44) Virginia - Tracy Collins
+45) Washington - Frank Gastineau
+46) West Virginia - Eugene Hildebran
+47) Wisconsin - Dennis Pardue
+48) Wyoming - Michelle Arnett
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
 
 
 
