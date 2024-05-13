@@ -42,17 +42,19 @@ Insights: Technology generated more sales compared to other categories. Technolo
 
 ![](Max_Furniture_SubCategory.png)
 
-Insights; The Chairs subcategory boasted the highest sales, totaling an impressive $126,944.64.
+The Chairs subcategory boasted the highest sales, totaling an impressive $126,944.64.
 
 Office Supplies Category
+
 ![](Max_Officesupplies_Subcategory.png)
 
-Insights: The Binder subcategory boasted the highest sales, totaling an impressive $326,134.32.
+The Binder subcategory boasted the highest sales, totaling an impressive $326,134.32.
 
 Technology Category
+
 ![](Max_Technology_Subcategory.png)
 
-Insights: The Phone subcategory boasted the highest sales, totaling an impressive $330,007.05.
+The Phone subcategory boasted the highest sales, totaling an impressive $330,007.05.
 
 ## Question 3: Which were the top 3 states from each region that the made the hihest average profit?
 
@@ -60,45 +62,49 @@ Central Region
 
 ![](Average_Profit_Central_Region.png)
 
-Insights: The Central region shines with Indiana, Minnesota, and Missouri emerging as the top three states with the highest profits.
+The Central region shines with Indiana, Minnesota, and Missouri emerging as the top three states with the highest profits.
 
 East Region
 
 ![](Average_Profit_East_Region.png)
 
-Insights: The East region shines with Vertmont, Rhode Island, and District of coloumbia emerging as the top three states with the highest profits.
+The East region shines with Vertmont, Rhode Island, and District of coloumbia emerging as the top three states with the highest profits.
 
 South Region
 
 ![](Average_Profit_South_Region.png)
 
-
-Insights: The East region shines with Alambam, Georgia, Virginia and  emerging as the top three states with the highest profits.
+The East region shines with Alambam, Georgia, Virginia and  emerging as the top three states with the highest profits.
 
 West Region
 
 ![](Average_Profit_South_Region.png)
 
-Insights: The South region shines with Montana, wyoming, and Nevada  emerging as the top three states with the highest profits.
+The South region shines with Montana, wyoming, and Nevada  emerging as the top three states with the highest profits.
 
 # Question 4: What is the percentage contribution of each subcategory of products under each category to the total sales?
 
 Furniture Category
+
 ![](Percentage_Contribution_Furniture.png)
 
-Insights: The Chair Subcategory boasts the highest sales percentage contribution within the furniture category.
+The Chair Subcategory boasts the highest sales percentage contribution within the furniture category.
 
 Office Supplies Category
 
-Insights: The Storage Subcategory boasts the highest sales percentage contribution within the Office Supplies category.
+![](Percentage_Contribution_OfficeSupplies.png)
+
+The Storage Subcategory boasts the highest sales percentage contribution within the Office Supplies category.
 
 Technology Category
 
-Insights: The Phones Subcategory boasts the highest sales percentage contribution within the Technology category.
+![](Percentage_Contribution_Technology.png)
+
+The Phones Subcategory boasts the highest sales percentage contribution within the Technology category.
 
 ## Question 5: Which customer made the lowest profit in the home segment in each state?
 
-![](Lowest_Profit_in_all_states.png)
+![](Lowest_Profit_in_all_stataes.png)
 
 Here are the names of the customers with the lowest Profit in each state
 1) Alabama - Kristina Nunn 
@@ -150,13 +156,54 @@ Here are the names of the customers with the lowest Profit in each state
 47) Wisconsin - Dennis Pardue
 48) Wyoming - Michelle Arnett
 
+## Question 6 Find the sales made in each quarter of 2016 for all the regions. 
 
+First Quarter in 2016
 
+![](Total_Sales_by_region_q1.png)
 
+In the western region, sales reached a peak of $23,496.03.
+
+Second Quarter in 2016
+
+![](Total_Sales_by_region_q2.png)
+
+In the western region, sales reached a peak of $26,187.66
+
+Third Quarter in 2016
+
+![](Total_Sales_by_region_q3.png)
+
+In the east region, sales reached a peak of $50,777,40
+
+Fourth Quarter in 2016
+
+![](Total_Sales_by_region_q4.png)
+
+In the east region, sales reached a peak of $65,709.49.
+
+Overrall Sales in 2016 by region
+
+![](Total_Sales_by_region_allq.png)
+
+In the east region, sales reached a peak of $156,332.01
+
+## Question 7 Find the profit made in each year for all the categories of product in the East and West regions.
+
+![](Histogram_Chart.png)
+
+# Insights
+1) The east region, sales reached a peak of $156,332.01 IN 2016
+2)  Technology generated more sales compared to other categories. Technology had the highest sales of $836,154.03.
+3)  The Chairs subcategory boasted the highest sales in the furniture category
+4)  The Binder subcategory boasted the highest sales, totaling an impressive $326,134.32 in the Office supplies category
+5)  The Phone subcategory boasted the highest sales, totaling an impressive $330,007.05 in the Technology category.
+
+# Conclusion
+1) The company to increase its focus on selling technology products.
+2) The company Should boosts sales efforts in both the eastern and western regions.
    
-
-
-
+.
 
 
 
